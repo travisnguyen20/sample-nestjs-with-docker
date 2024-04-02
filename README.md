@@ -1,6 +1,6 @@
 # sample-nestjs-with-docker
 
-Inherit from [Repo](https://github.com/gothinkster/realworld-example-apps)
+Inherit from this [repo](https://github.com/gothinkster/realworld-example-apps)
 
 # Getting started
 
@@ -39,16 +39,16 @@ The database tables are now set up and the prisma client is generated. For more 
 
 ## NPM scripts
 
-- `npm start` - Start application
-- `npm run start:watch` - Start application in watch mode
-- `npm run test` - run Jest test runner 
-- `npm run start:prod` - Build application
+- `yarn start` - Start application
+- `yarn start:watch` - Start application in watch mode
+- `yarn test` - run Jest test runner 
+- `yarn start:prod` - Build application
 
 ----------
 
 ## Start application
 
-- `npm start`
+- `yarn start`
 - Test api with `http://localhost:3000/api/articles` in your favourite browser
 
 ----------
